@@ -2,14 +2,14 @@
 <p>
   Welcome to my github page <img src="https://em-content.zobj.net/thumbs/240/apple/354/winking-face_1f609.png" alt="face" width="15" />.
   
-  ** I am a student from [SMP N 1 Kedawung](https://www.smpnegeri1kedawung.sch.id).<br />
+  <!--** I am a student from [SMP N 1 Kedawung](https://www.smpnegeri1kedawung.sch.id).<br />-->
   ** My favorite food is noodles.<br />
   ** My hobby is coding.<br />
   ** My favorite subject is information.<br />
 </p>
 
 ## Quote
-> “Nyuakkk.”
+> “Percayalah bahwa sesuatu yang di sesuatukan, maka akan menjadi sesuatu.”
 
 ## My Skills
 <p>
